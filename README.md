@@ -10,6 +10,8 @@
 
 Onedl is the open sourced code for the Fundl project.
 
+Fundl was a project targeted at Gen Z providing them with special deals. The idea was to allow brands and companies to connect to a new generation in a modern way.
+
 ## Code Repositories
 
 ### [Backend](https://github.com/aeriotech/onedl-gateway/)
